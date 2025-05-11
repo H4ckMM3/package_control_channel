@@ -2043,6 +2043,17 @@
 			]
 		},
 		{
+		    "name": "FTP Backup",
+		    "details": "https://github.com/H4ckMM3/FTP-Backup",
+		    "releases": [
+		        {
+		            "sublime_text": ">=3000",
+		            "tags": true
+		        }
+		    ],
+		    "labels": ["file backup", "backup", "ftp"]
+		}
+		{
 			"name": "FuzzyImports",
 			"details": "https://github.com/11bit/fuzzy-imports",
 			"labels": ["javascript", "js", "imports"],
